@@ -229,3 +229,7 @@ poetry.toml
 # Ignore all local history of files
 .history
 .ionide
+
+lab4/examples
+lab4/models
+lab4/dataset
