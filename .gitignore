@@ -233,3 +233,6 @@ poetry.toml
 lab4/examples
 lab4/models
 lab4/dataset
+lab6/logs
+lab6/weights
+lab6/data
